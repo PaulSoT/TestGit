@@ -6,4 +6,8 @@ se iniciara el proyecto en 1 mes, en octubre del 2022
 
 se realiza modificacion al repositorio ubicado en Desktop
 
+<<<<<<< HEAD
 se agrega parrado desde la rama main 
+=======
+se agrega parrafo desde la rama 2 
+>>>>>>> rama2
