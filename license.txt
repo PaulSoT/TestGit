@@ -1,3 +1,5 @@
 se crea la licensia para este proyecto 
 
 autor de la app Solano Torres Paul. Lima-Peru 2022
+
+se iniciara el proyecto en 1 mes, en octubre del 2022
